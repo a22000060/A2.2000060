@@ -1,0 +1,3 @@
+git config --global user.email "a2.2000060@mhs.stmik-sumedang.ac.id"
+
+git config --global user.name "a22000060"
